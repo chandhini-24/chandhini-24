@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @chandhini
+- Hey!! there👋
+- Hi👋, I’m @chandhini
 - 👀 I’m interested in Developing web-applications
 - 🌱 I’m currently learning Java and javascript
 - 📫 How to reach me https://www.linkedin.com/in/chandhini-n-5707b3173/
